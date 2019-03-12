@@ -1,4 +1,4 @@
-# DreamHouse Sample Application myNameIsAlwaysTaken
+# DreamHouse Sample Application myNameIsAlwaysTake
 
 > ** PLEASE NOTE **
 >
